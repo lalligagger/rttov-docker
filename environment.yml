@@ -1,0 +1,10 @@
+# from: https://github.com/binder-examples/python-conda_pip/blob/HEAD/environment.yml
+name: rttov
+channels:
+  - defaults
+dependencies:
+  - numpy 
+  - scipy 
+  - matplotlib 
+  - h5py 
+  - wxpython
